@@ -4,7 +4,7 @@
 
 <p align='center'>
   Welcome to my GitHub profile :)<br>
-  CS@National University of Singapore 🇸🇬 | 👾 I learn cybersecurity on my own.
+  CS @ National University of Singapore 🇸🇬 | 👾 I learn cybersecurity on my own.
 </p>
 
 <p align="center">
