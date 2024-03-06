@@ -13,6 +13,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/ultimat3hg">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/ultimatehg">
+   <img src="https://img.shields.io/badge/linktree-00CC7A?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
