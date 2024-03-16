@@ -21,7 +21,7 @@
 
 <p align="center">
   <details align='center'>
-  <summary>:zap: My workspace specs</summary>
+  <summary>:zap: My workstation specs</summary>
     <img src="https://img.shields.io/badge/windows-%233399FF.svg?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/intel-%20i7%2013700K-%23CCCCFF.svg?&style=for-the-badge&logo=intel&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-64GB-%23CCCCFF.svg?&style=for-the-badge&logoColor=grey" />
